@@ -1,0 +1,9 @@
+Package: com.naken.coco
+Name: coco
+Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: coco
+Maintainer: snakeninny@gmail.com
+Author: snakeninny
+dev: snakeninny

@@ -1,0 +1,10 @@
+Package: com.naken.coco
+Name: coco
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, firmware (>= 9.0), applist
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Make Do Not Disturb customizable for 3rd party Apps
+Maintainer: snakeninny
+Author: snakeninny
+Section: Tweaks
+Homepage: http://iosre.com
